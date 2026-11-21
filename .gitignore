@@ -1,0 +1,12 @@
+# Kredensial & file runtime — jangan pernah commit
+*.log
+*.lock
+pipeline_status.json
+series_state.json
+checkpoint-*.json
+preview-*.json
+assets/uploads/*
+public/uploads/*
+!assets/uploads/.gitkeep
+!public/uploads/.gitkeep
+__pycache__/
