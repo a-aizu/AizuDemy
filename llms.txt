@@ -1,0 +1,8 @@
+# AizuDemy
+
+> Platform Belajar Digital — Tutorial Vibe Coding, Cyber Security & Teknologi.
+
+## Core Content
+- [Belajar Vibe Coding](https://aizudemy.net/category/tutorial): Panduan lengkap ngoding dengan AI Assistant.
+- [Cyber Security & Hacking](https://aizudemy.net/category/cyber-security): Panduan keamanan siber dan etika hacking.
+- [Sitemap](https://aizudemy.net/sitemap.xml): XML sitemap lengkap.

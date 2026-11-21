@@ -1,0 +1,41 @@
+{
+  "name": "AizuDemy Admin",
+  "short_name": "AizuDemy",
+  "start_url": "/admin",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#005af0",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "220x220",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "⚡ Trigger AI Publisher",
+      "short_name": "Trigger AI",
+      "url": "/admin?trigger_ai=1",
+      "description": "Trigger AI Auto-Publisher untuk membuat 1 artikel baru"
+    },
+    {
+      "name": "📝 Tulis Artikel Baru",
+      "short_name": "Tulis Artikel",
+      "url": "/admin/posts?action=new",
+      "description": "Tulis artikel baru secara manual"
+    },
+    {
+      "name": "📊 Dashboard Admin",
+      "short_name": "Dashboard",
+      "url": "/admin",
+      "description": "Lihat statistik dan ringkasan blog"
+    },
+    {
+      "name": "📂 Kelola Kategori",
+      "short_name": "Kategori",
+      "url": "/admin/categories",
+      "description": "Kelola kategori artikel"
+    }
+  ]
+}
