@@ -1,0 +1,14 @@
+User-agent: Google-adstxt
+Allow: /ads.txt
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_private/
+
+Sitemap: https://aizudemy.net/sitemap.xml
