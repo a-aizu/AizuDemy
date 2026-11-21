@@ -1,0 +1,23 @@
+{
+  "current_series": "vibe-coding",
+  "series": {
+    "vibe-coding": {
+      "title": "Belajar Vibe Coding",
+      "category_slug": "tutorial",
+      "total_parts": 10,
+      "prefix": "Belajar Vibe Coding",
+      "parts": [
+        {"part": 1, "topic": "Apa Itu Vibe Coding? Pengenalan Buat Pemula yang Mau Ngoding Tanpa Ribet", "keywords": "vibe coding, apa itu vibe coding, ngoding dengan AI", "outline": "Definisi vibe coding vs ngoding tradisional, kenapa hype 2025-2026, siapa yang cocok, contoh hasil, mindset sebelum mulai"},
+        {"part": 2, "topic": "Setup Tools Vibe Coding: VS Code + AI Assistant Sampai Siap Ngoding", "keywords": "setup vibe coding, VS Code AI, tools vibe coding", "outline": "Install VS Code, extension AI (Copilot/Cursor/Claude Code), setup prompt, struktur folder project pertama, test hello world"},
+        {"part": 3, "topic": "Prompt Engineering Buat Vibe Coding: Cara Ngomong ke AI Biar Hasilnya Nggak Ngaco", "keywords": "prompt engineering vibe coding, cara prompt AI ngoding", "outline": "Anatomi prompt bagus, contoh prompt jelek vs bagus, teknik iterasi, template prompt reusable, kesalahan umum"},
+        {"part": 4, "topic": "Build Landing Page dengan Vibe Coding (Praktek Langsung Jadi)", "keywords": "landing page vibe coding, buat website dengan AI", "outline": "Brief landing page, prompt ke AI, generate HTML/CSS, revisi via vibe, deploy preview, checklist responsif"},
+        {"part": 5, "topic": "Bikin CRUD App Tanpa Ngetik Banyak Kode: Vibe Coding untuk Pemula", "keywords": "CRUD vibe coding, aplikasi CRUD AI", "outline": "Konsep CRUD, desain database simpel, prompt generate backend PHP/MySQLi, test tambah/edit/hapus, validasi"},
+        {"part": 6, "topic": "Integrasi API & Database via Vibe Coding: Biar Aplikasimu Hidup", "keywords": "integrasi API vibe coding, database vibe coding", "outline": "Pilih API publik, prompt integrasi fetch, simpan ke MySQL, handle error & loading, contoh cuaca/produk API"},
+        {"part": 7, "topic": "Debugging & Refactor dengan AI: Beresin Kode Berantakan Hasil Vibe Coding", "keywords": "debugging vibe coding, refactor kode AI", "outline": "Baca error bareng AI, teknik tanya kenapa error, refactor biar readable, tambah komentar, unit test simpel"},
+        {"part": 8, "topic": "Deploy Project Vibe Coding ke Vercel & VPS: Dari Lokal ke Online", "keywords": "deploy vibe coding, Vercel VPS deploy", "outline": "Siapkan build, deploy ke Vercel (frontend), deploy ke VPS/CyberPanel (fullstack), setting domain & SSL, cek live"},
+        {"part": 9, "topic": "Optimasi SEO & Performa Hasil Vibe Coding Biar Ngebut di Google", "keywords": "SEO vibe coding, optimasi performa website AI", "outline": "Audit Lighthouse, optimasi image & lazy load, meta OG/Twitter, sitemap, Core Web Vitals, checklist SEO on-page"},
+        {"part": 10, "topic": "Next Level Vibe Coding: Kolaborasi Tim & Workflow Biar Nggak Berantakan", "keywords": "kolaborasi vibe coding, workflow tim AI", "outline": "Git workflow dengan AI, code review via AI, bagi tugas prompt, dokumentasi otomatis, roadmap belajar selanjutnya"}
+      ]
+    }
+  }
+}
